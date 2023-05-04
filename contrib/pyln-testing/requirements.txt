@@ -1,4 +1,4 @@
-Flask==1.1.*
+Flask==2.2.5*
 cheroot==8.5.*
 ephemeral-port-reserve==1.1.1
 flaky ~= 3.7.0
